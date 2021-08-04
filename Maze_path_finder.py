@@ -1,4 +1,6 @@
 import queue
+
+# the maze is entered in the lsit form , any maze can be entered in the list form to obtain the path
 def createMaze():
     maze = []
     maze.append(["O", "O", "O", "O", "O", "A", "O"])
