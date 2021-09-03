@@ -7,3 +7,8 @@ this code uses Breadth First Search Algorithm and finds the shortest path of the
 ## Direction to complete the maze
 
 the code generates the direction to be followed to complete the maze 
+
+L
+R
+U
+D
