@@ -8,9 +8,9 @@ this code uses Breadth First Search Algorithm and finds the shortest path of the
 
 The code generates the direction to be followed to complete the maze 
 
-L - LEFT
-R - RIGHT
-U - FORWARD 
-D - BACKWARDS
+L - LEFT , 
+R - RIGHT , 
+U - FORWARD ,
+D - BACKWARDS .
 
 
